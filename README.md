@@ -5,6 +5,7 @@ The objective of this project is to use structural/modular design in VHDL to cre
 
 ## Boolean Expressions:
 The boolean expression for sum: S = A xor (B xor Cin)
+
 The Boolean expression for carry out: Cout = ((A xor B) and Cin) or (A and B)
 
 
